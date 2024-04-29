@@ -45,6 +45,6 @@ public class Main {
         obj2.funct1();
         obj2.funct2();
         System.out.println(StaticMethodBlock.count);
-        
+
     }
 }
