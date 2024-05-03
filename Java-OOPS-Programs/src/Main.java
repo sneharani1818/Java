@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+//        System.out.println(args[0]);
         System.out.println("Creating object of Shape class");
         Shape s1=new Shape();
         s1.draw();
